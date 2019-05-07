@@ -1,4 +1,4 @@
-# csswg-decisions
+# wg-decisions
 A place for Gecko developers to track CSSWG decisions.
 
 Issues are filed automatically by
